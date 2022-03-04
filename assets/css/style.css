@@ -94,6 +94,7 @@
     padding-inline-start: 52px;
     box-shadow: 1px 1px 10px #d0d0d0;
     border: none;
+    outline: none;
 }
 .icone {
     width: 24px;
